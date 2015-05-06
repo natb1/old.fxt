@@ -37,6 +37,7 @@ exports.some_app = {
 ```
 
 ## generate test fixtures as a side effect of integration
+(using nock)
 
 `tests/fxtSpec.js`
 ```
