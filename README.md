@@ -1,3 +1,5 @@
+old: This functionality is made obsolete for me by the 'sepia' package.
+
 # fxt
 
 ...tools for the creation and management of test fixture data.
