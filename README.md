@@ -1,4 +1,4 @@
-old: This functionality is made obsolete for me by the 'sepia' package.
+old: This functionality is made obsolete for me by the [sepia](https://github.com/linkedin/sepia) package.
 
 # fxt
 
